@@ -14,13 +14,13 @@ body {
   background-color: orange;
 }
 
-p {
+.text {
   margin: 10px;
   padding: 10px;
   background-color: #ddd;
 }
 
-p,
+.text,
 .outer,
 .inner {
   border: 1px solid #e75551;
